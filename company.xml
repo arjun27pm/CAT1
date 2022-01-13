@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="company2.xsl"?>
+<company xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:noNamespaceSchemaLocation="company.xsd">
+    <employee>
+        <emp_id>01</emp_id>
+            <emp_name>benzema</emp_name>
+            <emp_age>24</emp_age>
+            <emp_sal>95000</emp_sal>
+            <emp_email>haaland@gmail.com</emp_email>
+            <emp_mob>022-333-44-2</emp_mob>
+            <emp_designation>associate project manager</emp_designation>
+    </employee>
+    <employee>
+        <emp_id>02</emp_id>
+        <emp_name>vini jr</emp_name>
+        <emp_age>22</emp_age>
+        <emp_sal>155000</emp_sal>
+        <emp_email>vjr@gmail.com</emp_email>
+        <emp_mob>011-433-743</emp_mob>
+        <emp_designation> project member</emp_designation>
+    </employee>
+    <employee>
+        <emp_id>03</emp_id>
+        <emp_name>f.valverde</emp_name>
+        <emp_age>23</emp_age>
+        <emp_sal>85000</emp_sal>
+        <emp_email>fede@gmail.com</emp_email>
+        <emp_mob>092-553-102</emp_mob>
+        <emp_designation>developer</emp_designation>
+    </employee>
+    <employee>
+        <emp_id>04</emp_id>
+        <emp_name>Rodrigo</emp_name>
+        <emp_age>25</emp_age>
+        <emp_sal>90000</emp_sal>
+        <emp_email>rsantos@gmail.com</emp_email>
+        <emp_mob>099-7654-22</emp_mob>
+        <emp_designation>team leader</emp_designation>
+    </employee>
+    <employee>
+        <emp_id>05</emp_id>
+        <emp_name>kroos</emp_name>
+        <emp_age>30</emp_age>
+        <emp_sal>65000</emp_sal>
+        <emp_email>toni@gmail.com</emp_email>
+        <emp_mob>011-7787-10</emp_mob>
+        <emp_designation>team leader</emp_designation>
+    </employee>
+    <employee>
+        <emp_id>06</emp_id>
+        <emp_name>casemiro</emp_name>
+        <emp_age>50</emp_age>
+        <emp_sal>75000</emp_sal>
+        <emp_email>case14@gmail.com</emp_email>
+        <emp_mob>066-4004-7</emp_mob>
+        <emp_designation>developer</emp_designation>
+    </employee>
+    <employee>
+        <emp_id>07</emp_id>
+        <emp_name>courtois</emp_name>
+        <emp_age>47</emp_age>
+        <emp_sal>50000</emp_sal>
+        <emp_email>tibetc@gmail.com</emp_email>
+        <emp_mob>032-369-11-2</emp_mob>
+        <emp_designation>developer</emp_designation>
+    </employee>
+    
+</company>
